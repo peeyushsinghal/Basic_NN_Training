@@ -1,6 +1,4 @@
-[![ML Pipeline](https://github.com/peeyushsinghal/EfficientNN_Augmentation/actions/workflows/ml-pipeline.yml/badge.svg)](https://github.com/peeyushsinghal/EfficientNN_Augmentation/actions/workflows/ml-pipeline.yml)
-
-
+[![ML Pipeline](https://github.com/peeyushsinghal/Basic_NN_Training/blob/main/.github/workflows/cnn-test.yml/badge.svg)(https://github.com/peeyushsinghal/Basic_NN_Training/blob/main/.github/workflows/cnn-test.yml)
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![PyTorch](https://img.shields.io/badge/pytorch-2.x-orange.svg)
 
